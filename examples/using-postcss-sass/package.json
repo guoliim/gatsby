@@ -1,0 +1,22 @@
+{
+  "name": "using-postcss-sass",
+  "version": "1.0.0",
+  "description": "Example Gatsby website using the Gatsby plugin gatsby-plugin-postcss-sass",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  },
+  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "next",
+    "gatsby-link": "next",
+    "gatsby-plugin-google-analytics": "next",
+    "gatsby-plugin-offline": "next",
+    "gatsby-plugin-postcss-sass": "next",
+    "lost": "^8.0.0",
+    "react-typography": "^0.15.10",
+    "typography": "^0.15.10"
+  }
+}
